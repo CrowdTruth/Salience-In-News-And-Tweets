@@ -84,7 +84,7 @@ The overall workflow consisted of two crowdsourcing tasks for each dataset, both
     (1) identifying relevant snippets or tweets: "<b>Relevance Analysis</b>" task;
     (2) identifying the sentiment of each snippet or tweet and each relevant event mention identified in those snippets and tweets: "<b>Sentiment Analysis</b>" task. The crowdsourcing templates are shown below:
     
-![Fig.1: CrowdTruth Workflow for Identifying Salient Features in News and Tweets.](https://www.dropbox.com/s/vj90dbe8sg1sm68/workflow_salient_features.jpg)
+![Fig.1: CrowdTruth Workflow for Identifying Salient Features in News and Tweets.](https://github.com/CrowdTruth/Salience-In-News-And-Tweets/blob/master/img/workflow_salient_features.jpg)
 
 During the "<b>Relevance Analysis</b>" task, for the news articles dataset, the crowd is first asked to select all the relevant snippets with regard to the article title, where the title is considered as an expression of the event and then highlight in them all the relevant event mentions. For the tweets dataset, the crowd is asked to assign relevant events (from a list of predefined events) for each tweet and also highlight all the relevant event mentions in it. This results in a set of relevant snippets and tweets and a set of relevant event mentions in those. Using CrowdTruth cosine similarity metric we compute relevance scores for each snippet, tweet and event mention of the "whaling event".
 
