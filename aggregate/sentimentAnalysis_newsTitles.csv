@@ -1,0 +1,30 @@
+Dataset,Title Id,Title,Positive Sentiment,Negative Sentiment,Neutral Sentiment,High Intensity,Low Intensity,Medium Intensity
+DS1-Titles,30046,Indonesian fishermen jailed for fishing offences in Australian waters,0.7427813527,0.5570860145,0.3713906764,0,0.7808688094,0.6246950476
+DS1-Titles,31462,Experts fear for the health of London whale,0,0.9863939238,0.1643989873,0,0.9284766909,0.3713906764
+DS1-Titles,28687,Japanese whaling ship to dock in Hobart,0,0.3713906764,0.9284766909,0,0.9863939238,0.1643989873
+DS1-Titles,29729,Southern Ocean whale slaughter to resume,0.1414213562,0.9899494937,0,0.1961161351,0.5883484054,0.7844645406
+DS1-Titles,31648,"Greenpeace, Sea Shepherds end Southern Ocean whaling protest",0.3481553119,0.3481553119,0.8703882798,0,0.2747211279,0.9615239476
+DS1-Titles,32104,Anti-whaling Sea Shepherd crew detained in South Africa,0,0.6,0.8,0,0.9863939238,0.1643989873
+DS1-Titles,31479,Rescue teams try to save London whale,0.9899494937,0,0.1414213562,0.1961161351,0.5883484054,0.7844645406
+DS1-Titles,31550,London whale dies,0.1240347346,0.9922778767,0,0.1561737619,0.9370425713,0.3123475238
+DS1-Titles,43426,IWC passes pro-whaling resolution after close vote,0.9370425713,0.1561737619,0.3123475238,0.174077656,0.6963106238,0.6963106238
+DS1-Titles,48098,Confrontation between Greenpeace and fishermen off Marseille,0.3123475238,0.9370425713,0.1561737619,0.1690308509,0.5070925528,0.8451542547
+DS1-Titles,7290,"13 pilot whales returning to sea, off Western Australia",0.9615239476,0,0.2747211279,0,0.894427191,0.4472135955
+DS1-Titles,8453,Australian blitz on fish poaching,0.7427813527,0.5570860145,0.3713906764,0.1400280084,0.9801960588,0.1400280084
+DS1-Titles,8496,Norwegian whaling season starts with highest quota in a decade,0.1561737619,0.3123475238,0.9370425713,0,0.6246950476,0.7808688094
+DS1-Titles,12184,International Whaling Commission adjourns for private talks,0,0.2747211279,0.9615239476,0.1400280084,0.9801960588,0.1400280084
+DS1-Titles,18187,Greenpeace tries to thwart Chesapeake Bay fishing fleet,0.4850712501,0.7276068751,0.4850712501,0,0.8,0.6
+DS1-Titles,25940,"Japan to hunt 950 whales for ""scientific research""",0,0.7071067812,0.7071067812,0.1961161351,0.7844645406,0.5883484054
+DS1-Titles,28661,Greenpeace activists clash with Japanese whaling fleet in Southern Ocean,0.5883484054,0.7844645406,0.1961161351,0.1961161351,0.7844645406,0.5883484054
+DS1-Titles,31008,Australians unite against whaling in Southern Ocean,0.6963106238,0.6963106238,0.174077656,0.5773502692,0.5773502692,0.5773502692
+DS1-Titles,31392,"Whale spotted in river Thames, Central London",0.2747211279,0,0.9615239476,0.174077656,0.6963106238,0.6963106238
+DS1-Titles,120875,500 stranded melon-headed whales rescued in Philippine bay,0.6,0,0.8,0.1924500897,0.9622504486,0.1924500897
+DS1-Titles,101383,Protester says Japanese whalers shot him,0,1,0,0.8451542547,0.1690308509,0.5070925528
+DS1-Titles,88610,Sperm whale stranded off coast of Florida in the US,0.3481553119,0.8703882798,0.3481553119,0,1,0
+DS1-Titles,139305,"Humpback whale found dead in River Thames, England",0,0.7071067812,0.7071067812,0.1825741858,0.9128709292,0.3651483717
+DS1-Titles,123451,"One day after attempted rescue, six stranded whales die on Australian beach",0,0.9922778767,0.1240347346,0.174077656,0.6963106238,0.6963106238
+DS1-Titles,87842,Japan backs down from hunting Humpback whales,0.5144957554,0,0.8574929257,0,0.8574929257,0.5144957554
+DS1-Titles,84170,Japan fishermen clash with surfers over 2007 dolphin hunt,0,0.9863939238,0.1643989873,0,0.9284766909,0.3713906764
+DS1-Titles,58447,Ship accident in Norwegian sea causes environmental catastrophe,0,0.9863939238,0.1643989873,0.2182178902,0.4364357805,0.8728715609
+DS1-Titles,163255,Whaling activist arrested by Japan,0,0.8,0.6,0,1,0
+DS1-Titles,149645,48 whales beached in New Zealand,0,0.6,0.8,0,0.8,0.6
