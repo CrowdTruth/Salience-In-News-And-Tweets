@@ -1,5 +1,7 @@
 # Crowdsourcing salient information from news and tweets
 
+[![DOI](https://zenodo.org/badge/19180/CrowdTruth/Salience-In-News-And-Tweets.svg)](https://zenodo.org/badge/latestdoi/19180/CrowdTruth/Salience-In-News-And-Tweets)
+
 This repository contains preliminary work results for identifying linguistic features for novelty detection in news and tweets. We report here results of a crowdsourcing experimental pipeline of assessing the relevance of various tweets and news article snippets and the sentiments and intensities they indicate. The main focus of this dataset if to gather initial relevant and novel information insights, with regard to the event of "<b><a href="https://en.wikipedia.org/wiki/Whaling">whaling</a></b>". 
 
 All the crowdsourcing experiments were performed through the CrowdTruth platform, while the results were processed and analyzed using the CrowdTruth methodology and metrics. For more information, check the <b><a href="http://crowdtruth.org/">CrowdTruth</a></b> website. For gathering the annotated data, we used the <b><a href="http://corwdflower.com/">CrowdFlower</a></b> marketplace.
